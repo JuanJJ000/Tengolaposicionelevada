@@ -1,0 +1,10 @@
+C:\Users\juanj\source\repos\Universalestudiosdineytokionintendo\kKola\bin\Debug\kKola.exe.config
+C:\Users\juanj\source\repos\Universalestudiosdineytokionintendo\kKola\bin\Debug\kKola.exe
+C:\Users\juanj\source\repos\Universalestudiosdineytokionintendo\kKola\bin\Debug\kKola.pdb
+C:\Users\juanj\source\repos\Universalestudiosdineytokionintendo\kKola\obj\Debug\kKola.csproj.AssemblyReference.cache
+C:\Users\juanj\source\repos\Universalestudiosdineytokionintendo\kKola\obj\Debug\kKola.Form1.resources
+C:\Users\juanj\source\repos\Universalestudiosdineytokionintendo\kKola\obj\Debug\kKola.Properties.Resources.resources
+C:\Users\juanj\source\repos\Universalestudiosdineytokionintendo\kKola\obj\Debug\kKola.csproj.GenerateResource.cache
+C:\Users\juanj\source\repos\Universalestudiosdineytokionintendo\kKola\obj\Debug\kKola.csproj.CoreCompileInputs.cache
+C:\Users\juanj\source\repos\Universalestudiosdineytokionintendo\kKola\obj\Debug\kKola.exe
+C:\Users\juanj\source\repos\Universalestudiosdineytokionintendo\kKola\obj\Debug\kKola.pdb
