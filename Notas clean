@@ -1,0 +1,46 @@
+
+Robert C. Martin1q1
+
+
+domain,objetos simples, interfaces
+
+
+de afuera hacia dentro ejemplo: de presentation a domain
+
+
+los servicios tienen que implementar los metodos en una clase
+
+
+
+
+servicios no tienen como guardar esos metodos asi que toma del Domain y a ellos a su vez los implementa la infraestructura estos
+
+infrastructure hereda de las interfaces de domain para su implementacion
+
+desacoplar quitar dependencias
+
+la clase activo services no debe depender de la ListarAcivoRepository o otra clase sino de una interface de domain 
+
+
+(metodos en interfaces)el appcore le pide que guarde los crud a domain y esta implementa las crud en infrastructure, 
+
+appcore y infrastructure no se conectan para nada
+
+en "program" se dice a quien se va a injectar en el appcore
+
+ejemplo binaryactivorepository se le va a injectar a la interface Iactivomodel
+
+igualmente la clase acttivo se le va a injectar a la interface Iactivoservices
+
+
+
+
+
+
+
+
+
+
+
+
+
