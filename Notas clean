@@ -5,7 +5,7 @@ Robert C. Martin1q1
 domain,objetos simples, interfaces
 
 
-de afuera hacia dentro ejemplo: de presentation a domain
+de afuera hacia dentro ejemplo: de presentation a appcore
 
 
 los servicios tienen que implementar los metodos en una clase
